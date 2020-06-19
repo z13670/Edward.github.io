@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+/* ************** login部分开始 ************ */
+body{
+	background: url('../images/login_bg2.jpg') no-repeat;
+	background-size: cover;
+	
+}
+.login_box {
+	margin: 200px auto;
+	width: 450px;
+	height: 300px;
+	text-align: center;
+	border-radius: 30px;
+	background-color: rgba(0,0,0,0.3);
+}
+.login_box p {
+	margin-top: 30px;
+	line-height: 30px;
+	color: #FFF;
+}
+.login_box p span {
+	font-size: 17px;
+	font-weight: bold;
+	margin-right: 20px;
+	margin-left: -50px;
+}
+.login_box input {	
+	border: 0;
+	height: 30px;
+	border-bottom: 1px solid #CCC;
+	background-color: transparent;
+	outline: none;
+	color: white;
+}
+.login_box input::-webkit-input-placeholder {
+    color: #fff;
+    background: transparent;
+}
+.login_box .signup_btn {
+	width: 140px;
+	height: 40px;
+	border: 0;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 20px;
+	background: linear-gradient(45deg,rgb(62, 28, 122),#fcd3fd);
+	cursor: pointer;
+}
+.login_box h1 {
+	color: white;
+	padding-top: 30px;
+}
+.change_bg {
+	position: absolute;
+	right: 0;
+	top: 100px;
+	width: 100px;
+	text-align: center;
+	background-color: rgba(255,255,255,0.5);
+	padding-bottom: 20px;
+}
+.change_bg p {
+	color: white;
+	font-weight: 500;	
+	cursor: pointer;
+}
+.change_bg ul li img{
+	width: 80px;
+	height: 60px;
+	margin-top: 20px;
+	cursor: pointer;
+}

@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1345876",
+      "name": "个人信息",
+      "font_class": "geren",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1912273",
+      "name": "扳手",
+      "font_class": "xinxinicon",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12591019",
+      "name": "奖状 (2)",
+      "font_class": "jiangzhuang",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}
